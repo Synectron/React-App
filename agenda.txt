@@ -1,0 +1,37 @@
+Why React:
+1. Composable code
+2. flexible and maintainable
+3.Component usuable
+4.declarative
+
+
+declarative ----- what to do --react
+ imperative  ---- vanilla js -----tell what to do and how to do
+
+
+const el =createElement -----
+append --- hi
+
+setAtrributes <h1>
+
+
+return (<div><h1>Hi</h1></div>)
+
+React.createElement("div", null, /*#__PURE__*/React.createElement("h1", null, "HI"));
+
+
+npx create-react-app name
+
+
+
+
+props:1
+system for passing the data from parent to child
+
+
+
+
+
+
+
+
